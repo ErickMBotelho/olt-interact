@@ -1,0 +1,18 @@
+{
+  "name": "olt-connect",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Alefe <dev.alefe@gmail.com>",
+  "license": "ISC",
+  "description": "",
+  "dependencies": {
+    "net": "^1.0.2",
+    "nodemon": "^2.0.7",
+    "telnet-client": "^1.4.9",
+    "telnet-stream": "^1.0.5"
+  }
+}
